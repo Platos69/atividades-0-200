@@ -1,0 +1,1 @@
+let numeroReceber = parseFloat()
