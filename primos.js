@@ -1,5 +1,5 @@
-const numeroReceber = parseInt(prompt("Digite o valor do número: "))
-let expressao = ""
+const numeroReceber = parseInt(prompt('Digite o valor do número: '))
+let expressao = ''
 
 for (let contador = 2; contador <= numeroReceber; contador++) {
   //define let como zero apos cada loop
